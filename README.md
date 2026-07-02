@@ -1,5 +1,5 @@
 # Project 1: learning
-This is my first github project I want to test. I am a molecular biologist ethusiatic about biology, informatic, and enviromental science. I want to use git hub to develop tools that scientist or people from different profession to make this world better and more sustainable. 
+This is my first GitHub project, created as a space to learn, experiment, and grow. I am a molecular biologist enthusiastic about biology, bioinformatics, and environmental science. Through GitHub, I hope to develop useful tools that support scientists and professionals from different fields in building a better and more sustainable world.
 
 
 # Resource for learning and inspiration 
