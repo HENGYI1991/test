@@ -4,3 +4,4 @@ This is my first github project I want to test. I am a molecular biologist ethus
 
 # Resource for learning and inspiration 
 https://docs.github.com/en/get-started/start-your-journey/finding-inspiration-on-github
+https://github.com/collections/learn-to-code
